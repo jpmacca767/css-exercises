@@ -1,0 +1,21 @@
+/* styles.css */
+
+body {
+    background-color: white;
+}
+
+.inverted, .fancy {
+    font-size: 28px;
+    font-family: "Helvetica", "Times New Roman" sans-serif;
+}
+
+.inverted {
+
+    background-color: black;
+    color: white;
+    
+}
+
+.fancy {
+    background-color: yellow;
+}
